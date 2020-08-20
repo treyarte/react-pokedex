@@ -1,0 +1,17 @@
+.pokecard {
+  background-color: #2d4059;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 5px -2px #393e46;
+  color: #fff;
+  width: 11rem;
+  display: flex;
+
+  flex-direction: column;
+  text-align: center;
+  margin: 2rem;
+}
+
+.pokecard-header {
+  color: #ea5455;
+}
